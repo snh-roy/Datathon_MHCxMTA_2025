@@ -61,7 +61,7 @@
   <p>Supporting map: <code>/assets/cuny_routes_analysis.html</code></p>
 
   <p align="center">
-  <img src="assets/cuny_routes_analysis.jpeg" alt="CUNY Routes Analysis" width="600">
+  <img src="assets/cuny_routes_analysis.html" alt="CUNY Routes Analysis" width="600">
   </p>
 
   <p><strong>Critical finding:</strong> ACE program shows declining performance across multiple metrics.</p>
@@ -77,7 +77,7 @@
   <p>Supporting map: <code>/assets/exempt_violations_hotspots.html</code></p>
 
   <p align="center">
-  <img src="assets/exempt_violations.jpeg" alt="Exempt Violations Analysis" width="600">
+  <img src="assets/exempt_violations.html" alt="Exempt Violations Analysis" width="600">
   </p>
 
   <p><strong>Key findings (2025 data):</strong></p>
@@ -92,7 +92,7 @@
   <p>Supporting map: <code>/assets/congestion_pricing_fixed.html</code></p>
 
   <p align="center">
-  <img src="assets/congestion_pricing.jpeg" alt="Congestion Pricing Analysis" width="600">
+  <img src="assets/congestion_pricing.html" alt="Congestion Pricing Analysis" width="600">
   </p>
 
   <p><strong>Dramatic policy contrast:</strong></p>
